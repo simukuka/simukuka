@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simukuka" alt="simukuka" /></a> </p>
 
-- 🌱 I’m currently learning **I'm currently learning the essentials of HTML5, CSS3, and Modern JavaScript to build real web applications using the latest technologies. I'm creating responsive and accessible layouts, preventing security exploits like SQL-Injection and XSS, and building complex projects from scratch, such as a blog using Node, Express, and MongoDB. The course also covers deploying applications, working with cloud databases, and mastering JavaScript, including DOM manipulation, server-side scripting with NodeJS, and creating full-stack applications. Additionally, I'm getting hands-on experience with CSS frameworks like Bootstrap 5, implementing user authentication, and developing responsive portfolio and landing pages. This learning journey is equipping me with the skills to continue growing as a developer long after the course ends.**
+- 🌱 I’m currently learning **I'm learning HTML5, CSS3, and Modern JavaScript to build responsive, secure web applications. I'm creating projects from scratch using Node, Express, and MongoDB, and deploying them with cloud databases. I'm also mastering JavaScript for both front-end and back-end development, including DOM manipulation and user authentication. Additionally, I'm working with CSS frameworks like Bootstrap 5 to design beautiful, responsive layouts.**
 
 - 📫 How to reach me **Simukuka.akakand@bulldogs.aamu.edu**
 
